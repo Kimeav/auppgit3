@@ -1,1 +1,3 @@
-nice 
+Nice 
+
+This is a great feature. 
